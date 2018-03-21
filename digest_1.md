@@ -24,7 +24,7 @@ It was tested on a monkey that had its spinal cord damaged which left its right 
   "This new interface involves two main implants -- one sensor in the brain and a nerve stimulator in the spine -- located on either side of the injury to bridge the line of communication."
 
   [1]
- # CNBC
+# CNBC
 (March 28, 2017)
 CNBC shares a story about a man who had been paralyzed from the shoulders down
 	He was able to move enough to eat drink on his own with the help of a new “neuro-prosthetic” device.
